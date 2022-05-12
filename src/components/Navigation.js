@@ -1,11 +1,11 @@
 import "../styles/navigation.css";
 
-import logo from "../images/logo.png";
+//import logo from "../images/logo.png";
 
-import { ReactComponent as HomeSVG } from "../images/home.svg";
-import { ReactComponent as InboxSVG } from "../images/inbox.svg";
-import { ReactComponent as ExploreSVG } from "../images/explore.svg";
-import { ReactComponent as LikeSVG } from "../images/like.svg";
+//import { ReactComponent as HomeSVG } from "../images/home.svg";
+//import { ReactComponent as InboxSVG } from "../images/inbox.svg";
+//import { ReactComponent as ExploreSVG } from "../images/explore.svg";
+//import { ReactComponent as LikeSVG } from "../images/like.svg";
 
 function Navigation() {
    return (

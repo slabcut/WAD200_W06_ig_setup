@@ -2,7 +2,7 @@ import "../styles/navigation.css";
 
 import React from "react";
 
-//import logo from "../images/logo.png";
+//import logo from "https://github.com/slabcut/WAD200_W06_ig_setup/blob/main/src/images/logo.png";
 
 //import { ReactComponent as HomeSVG } from "../images/home.svg";
 //import { ReactComponent as InboxSVG } from "../images/inbox.svg";

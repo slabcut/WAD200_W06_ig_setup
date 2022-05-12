@@ -1,0 +1,9 @@
+.footer {
+   background-color: rgb(209, 255, 164);
+   margin: 10px
+}
+
+.footer h1 {
+   font-family: helvetica;
+   color: rgb(77, 255, 0);
+}

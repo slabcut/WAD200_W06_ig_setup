@@ -1,0 +1,9 @@
+* {
+   margin: 0px;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: azure;
+   padding-top: 5px;
+}

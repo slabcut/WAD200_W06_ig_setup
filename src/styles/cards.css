@@ -1,0 +1,9 @@
+.cards{
+   background-color: rgb(164, 231, 255);
+   margin:10px 
+}
+
+.cards h1{
+   font-family: helvetica;
+   color:rgb(0, 136, 255);
+}

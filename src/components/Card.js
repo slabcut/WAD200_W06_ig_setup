@@ -1,4 +1,8 @@
+
 import "../styles/card.css";
+
+import React from "react";
+
 
 function Card({ image }) {
    return (

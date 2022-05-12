@@ -1,5 +1,7 @@
 import "../styles/navigation.css";
 
+import React from "react";
+
 //import logo from "../images/logo.png";
 
 //import { ReactComponent as HomeSVG } from "../images/home.svg";

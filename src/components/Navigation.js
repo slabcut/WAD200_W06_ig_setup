@@ -17,10 +17,7 @@ function Navigation() {
          <img className="logo" src={logo} alt="logo" />
 
          <div className="menu">
-            <HomeSVG className="icon" />
-            <InboxSVG className="icon" />
-            <ExploreSVG className="icon" />
-            <LikeSVG className="icon" />
+        grr
          </div>
 
       </div>

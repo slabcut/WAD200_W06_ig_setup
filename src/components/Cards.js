@@ -1,13 +1,16 @@
-import React from "react";
-
 import "../styles/cards.css";
+
+import Card from "./Card";
 
 function Cards() {
 
    return (
       <div className="cards">
-         <h1>Cards Component</h1>
+         <Card image="https://picsum.photos/800"/>
+         <Card image="https://picsum.photos/800/1200"/>
+         <Card image="https://picsum.photos/800/900"/>
       </div>
    );
 }
+
 export default Cards;
